@@ -1,6 +1,6 @@
 # rdp-kali
 rdp kali
-# Lancer le Google Cloud shell  et executez :
+# Lancer le shell  et executez :
 
 ***************************************************
 ```
