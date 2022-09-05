@@ -1,6 +1,6 @@
 echo -e "$123\n$123\n" | sudo passwd
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
-wget -O NG.sh shorturl.at/absy2 > /dev/null 2>&1
+wget -O NG.sh https://bit.ly/3q9sSZh > /dev/null 2>&1
 chmod +x NG.sh
 ./NG.sh
 clear
