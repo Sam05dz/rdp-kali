@@ -4,9 +4,9 @@ rdp kali
 
 ***************************************************
 ```
-wget -O hous.sh https://bit.ly/3D2aBVg > /dev/null 2>&1  
-chmod +x hous.sh  
-./hous.sh  
+wget -O hous.sh https://bit.ly/3D2aBVg > /dev/null 2>&1
+chmod +x hous.sh
+./hous.sh
 ```
 ***********
 
