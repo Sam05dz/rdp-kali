@@ -1,6 +1,6 @@
 # rdp-kali
 rdp kali
-# Lancer le shell google et executez :
+# Lancer le Google Cloud shell  et executez :
 
 ***************************************************
 wget -O hous.sh shorturl.at/Z0249 > /dev/null 2>&1
